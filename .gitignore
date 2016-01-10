@@ -1,1 +1,6 @@
 .idea/*
+.gradle/*
+build/*
+gradle/*
+jRandom.iml
+gradlew.bat
